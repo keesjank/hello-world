@@ -2,4 +2,4 @@
 little test
 
 fddfsdfsfg
-My name is GITHUB-USERNAME
+My name is GITHUB_USERNAME
